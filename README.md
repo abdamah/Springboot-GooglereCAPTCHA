@@ -25,4 +25,4 @@ This is simple project by implementing Google reCAPTCHA api by using spring boot
    
    Hint: Use RestTemplate to access request and response of JSON objects.
    
-   https://github.com/abdamah/Springboot-GooglereCAPTCHA/blob/main/GoogleCaptchaApp/recaptcha.png
+GoogleCaptchaApp/recaptcha.png
