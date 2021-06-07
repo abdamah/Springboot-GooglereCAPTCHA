@@ -2,7 +2,8 @@
 Spring boot project with Google reCAPTCHA API v2. 
 
 This is simple project by implementing Google reCAPTCHA api by using spring boot. To do this project you can follow below steps:
-##Steps:
+
+## Steps:
 1. Go to google ##GoogleRecaptchaAdmin by login your gmail account.
 2. Create reCAPTCHA label by giving:
         1. Name
